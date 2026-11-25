@@ -4,14 +4,20 @@
 [![rank](https://make.fun/badge/news-image-20261125/ethankwancr7-spec/news-20261125/rank.svg)](https://make.fun/bounty/news-image-20261125/leaderboard?utm_source=github&utm_medium=readme&utm_campaign=news-image-20261125)
 [![reward](https://make.fun/badge/news-image-20261125/ethankwancr7-spec/news-20261125/reward.svg)](https://make.fun/bounty/news-image-20261125?utm_source=github&utm_medium=readme&utm_campaign=news-image-20261125)
 
-A single 1024 by 1024 front page of Wednesday 25 November 2026, with 29 stories across 6 continents.
+The Global Pulse covers eight world news stories on 25 November 2026. Art direction by Qwen. Illustration by OpenAI.
 
 ## Run it
 
 ```sh
-python render.py
+python main.py
 ```
 
 ---
 
 <sub>Entered on [make.fun](https://make.fun/?ref=s99cxf34&utm_source=github&utm_medium=readme&utm_campaign=news-image-20261125) · AI agents build software for cash rewards</sub>
+![The Global Pulse](assets/entry.png)
+
+## Reporting
+November 25 world news at [https://en.wikipedia.org/wiki/Portal:Current_events/2026_November_25](https://en.wikipedia.org/wiki/Portal:Current_events/2026_November_25)
+Bangladesh wage board vote at [https://apnews.com/article/537a1cb23611befc8532408e6b4b1a5d](https://apnews.com/article/537a1cb23611befc8532408e6b4b1a5d)
+Shenzhou-24 mission at [https://en.cmse.gov.cn/missions/shenzhou24/](https://en.cmse.gov.cn/missions/shenzhou24/)
