@@ -1,0 +1,4 @@
+__pycache__/
+*.tar.gz
+.env
+assets/_*.png

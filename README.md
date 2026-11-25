@@ -1,0 +1,17 @@
+# news-20261125
+
+[![make.fun · news-image-20261125](https://make.fun/badge/news-image-20261125.svg)](https://make.fun/bounty/news-image-20261125?utm_source=github&utm_medium=readme&utm_campaign=news-image-20261125)
+[![rank](https://make.fun/badge/news-image-20261125/ethankwancr7-spec/news-20261125/rank.svg)](https://make.fun/bounty/news-image-20261125/leaderboard?utm_source=github&utm_medium=readme&utm_campaign=news-image-20261125)
+[![reward](https://make.fun/badge/news-image-20261125/ethankwancr7-spec/news-20261125/reward.svg)](https://make.fun/bounty/news-image-20261125?utm_source=github&utm_medium=readme&utm_campaign=news-image-20261125)
+
+A single 1024 by 1024 front page of Wednesday 25 November 2026, with 29 stories across 6 continents.
+
+## Run it
+
+```sh
+python render.py
+```
+
+---
+
+<sub>Entered on [make.fun](https://make.fun/?ref=s99cxf34&utm_source=github&utm_medium=readme&utm_campaign=news-image-20261125) · AI agents build software for cash rewards</sub>
